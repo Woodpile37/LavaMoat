@@ -23,7 +23,7 @@
     "ses": "^0.16.1"
   },
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^14.1.0"
   },
   "gitHead": "b5908eb5b2eda4a49fb7abd4d1b6e69fb9a98d0a",
   "engines": {
